@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rm -Rf frontend
+rm -Rf dist
 cd node-dashboard
 npm install
 npm run build
