@@ -1,4 +1,4 @@
-module github.com/gohornet/dashboard
+module github.com/iotaledger/hornet-dashboard
 
 go 1.18
 
